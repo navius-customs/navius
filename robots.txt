@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://navius.co.kr/sitemap.xml
